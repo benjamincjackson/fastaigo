@@ -1,0 +1,1 @@
+## A placeholder for idiomatic fasta file reading
